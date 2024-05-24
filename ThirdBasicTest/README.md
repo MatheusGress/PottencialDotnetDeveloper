@@ -17,6 +17,6 @@ A saída consistirá em um tipo booleano: true ou false. Como nos exemplos a bai
 
 ##
 #### Link do teste:
-[Dio teste Três Divisores](https://web.dio.me/coding/desafios-basicos-c-pottencial/algorithm/tres-divisores?back=/track/pottencial-net-developer)
+[Dio teste "Três Divisores"](https://web.dio.me/coding/desafios-basicos-c-pottencial/algorithm/tres-divisores?back=/track/pottencial-net-developer)
 
 
